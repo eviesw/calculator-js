@@ -1,5 +1,3 @@
-// Your code here!
-
 class Calculator {
   constructor() {
     this.PI = Math.PI;
